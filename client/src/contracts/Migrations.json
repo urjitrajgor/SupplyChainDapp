@@ -5,7 +5,7 @@
       "constant": true,
       "inputs": [],
       "name": "last_completed_migration",
-      "outputs": [
+      "outputs": [s
         {
           "name": "",
           "type": "uint256"
@@ -1374,15 +1374,21 @@
     "version": "0.5.0+commit.1d4f565a.Emscripten.clang"
   },
   "networks": {
+    "3": {
+      "events": {},
+      "links": {},
+      "address": "0xDF11AA504239D59E76c08160BbCF774024Ca2BAD",
+      "transactionHash": "0xbf7dd46aef82d2855c3d39d02ff37204b0677f7e0b69d9f26879337a089278c6"
+    },
     "5777": {
       "events": {},
       "links": {},
-      "address": "0x5b7c788335e2a86D34b51ae7F817b28C57d64967",
-      "transactionHash": "0x484ba6600257592aebc818d7701fb26222b81a097ade9f6c08ecc6cb0776f82e"
+      "address": "0x5433e2705998505D681bF78e1A8AbeD9260598F7",
+      "transactionHash": "0xe3f3e36484d796d33339d6b1bb000117479ac190549fb96c52fee902bc976905"
     }
   },
   "schemaVersion": "3.0.11",
-  "updatedAt": "2019-07-03T07:53:40.144Z",
+  "updatedAt": "2019-07-05T17:53:10.076Z",
   "devdoc": {
     "methods": {}
   },
