@@ -1,0 +1,20 @@
+{
+  "name": "supplychaindapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "web3": "^1.0.0-beta.55"
+  }
+}
